@@ -10,8 +10,8 @@ The plan is to artificially create items and activities in this repository that 
 
 © 2020 Pen-Yuan Hsing et al.
 
-Code: \
+Code (files in `srv`): \
 [GNU GPLv3 or later](../LICENSE)
 
-Non-code: \
+Non-code (files not in `src`): \
 [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
