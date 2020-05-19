@@ -5,7 +5,7 @@
 # A trivial Python 3 script
 
 def main():
-    message: str = "Hello world"
+    message: str = "Hello"
     print(message)
 
 if __name__ == "__main__":
