@@ -4,17 +4,7 @@
 
 # A Python 3 script that does a few simple operations
 
-
-from typing import Tuple
-
-
-def quadratic(a: float, b: float, c: float) -> Tuple[float, float]:
-    """Solve a quadratic equation"""
-    x_1: float = (-b + (b**2 - 4*a*c)**(1/2)) / (2*a)
-    x_2: float = (-b - (b**2 - 4*a*c)**(1/2)) / (2*a)
-
-    return (x_1, x_2)
-
+from quadratic import quadratic
 
 def main() -> None:
     message: str = "Hello"
