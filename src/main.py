@@ -16,9 +16,9 @@ def main():
     print(message)
 
     # Solve an arbitrary quadratic equation
-    a = 1
-    b = 5
-    c = 6
+    a = 11
+    b = 18
+    c = 7
     x_1, x_2 = quadratic(a=a, b=b, c=c)
     print(str(x_1) + " " + str(x_2))
 
