@@ -12,7 +12,7 @@ def quadratic(a, b, c):
     return x_1, x_2
 
 def main():
-    message: str = "Hello world"
+    message: str = "Hello"
     print(message)
 
     # Solve an arbitrary quadratic equation
