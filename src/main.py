@@ -4,6 +4,7 @@
 
 # A Python 3 script that does a few simple operations
 
+#this is an edit by rafaella
 from quadratic import quadratic
 
 def main() -> None:
@@ -21,7 +22,7 @@ def main() -> None:
     print("a = {0}\nb = {1}\nc = {2}".format(a, b, c))
     print("The two roots (x) are: {root_1:5.5} and {root_2:5.5}".format(
         root_1=x_1, root_2=x_2))
-
+#another comment
 
 if __name__ == "__main__":
     main()
